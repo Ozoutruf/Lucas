@@ -1,4 +1,4 @@
-# Lucas
+# Projeto do curso de Ti ebac Atualizado
 Cartório 
 #include <stdio.h>
 #include <stdlib.h>
